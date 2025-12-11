@@ -18,8 +18,16 @@
     "ai",
     "llm"
   ],
-  "author": "",
+  "author": "Joe Seifi",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joeshub/promptlog.git"
+  },
+  "homepage": "https://github.com/joeshub/promptlog",
+  "bugs": {
+    "url": "https://github.com/joeshub/promptlog/issues"
+  },
   "dependencies": {
     "@clack/prompts": "^0.11.0",
     "clipboardy": "^4.0.0",

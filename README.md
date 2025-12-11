@@ -1,6 +1,6 @@
 # PromptLog
 
-Version control for your prompts. Like git, but for the prompts you use with AI assistants.
+Version control for your AI prompts. Like git, but for the prompts you use with AI coding assistants.
 
 ![PromptLog Demo](demo.gif)
 
